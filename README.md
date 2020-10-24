@@ -8,6 +8,6 @@ Hi! I'm AdvancedAntiSkid. I'm currently working on [@Velocity Anti-Cheat](https:
   <li>💬 Discord: AdvancedAntiSkid#0223</li>
   <li>📪 Email: AdvancedAntiSkid@velocityac.xyz</li>
   <li>🎥 Youtube: [https://www.youtube.com/channel/UColYjkn_s5m0tMZtjT4jN5w?view_as=subscriber](Click here)</li>
-<ul>
+</ul>
 
 Also you can find me on our [discord server](https://discord.gg/tbuEj8y)
