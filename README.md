@@ -7,8 +7,8 @@ Hi! I'm AdvancedAntiSkid. I'm currently working on [@Velocity Anti-Cheat](https:
 <ul>
   <li>💬 Discord: AdvancedAntiSkid#0001</li>
   <li>📪 Email: advancedantiskid@gmail.com</li>
-  <li>🎥 Youtube: <a href="https://www.youtube.com/channel/UColYjkn_s5m0tMZtjT4jN5w?view_as=subscriber">Click here</a></li>
-  <li>💡 Website: <a href="https://bluenight.net">Click here</a></li>
+  <li>🎥 Youtube: <a href="https://www.youtube.com/channel/UColYjkn_s5m0tMZtjT4jN5w?view_as=subscriber" target="_blank">Click here</a></li>
+  <li>💡 Website: <a href="https://bluenight.net" target="_blank">Click here</a></li>
 </ul>
 
 Also you can find me on our [discord server](https://discord.gg/tbuEj8y)
