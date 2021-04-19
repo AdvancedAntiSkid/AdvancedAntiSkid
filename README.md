@@ -11,4 +11,4 @@ Hi! I'm AdvancedAntiSkid. I'm currently working on [@Velocity Anti-Cheat](https:
   <li>💡 Website: <a href="https://bluenight.net" target="_blank">Click here</a></li>
 </ul>
 
-Also you can find me on our [discord server](https://discord.gg/tbuEj8y)
+Also you can find me on our [discord server](https://discord.com/invite/DwueqMQ)
