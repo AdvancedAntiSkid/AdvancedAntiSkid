@@ -11,4 +11,4 @@ Hi! I'm AdvancedAntiSkid and I'm currently working on [@Fusion Anti-Cheat](https
   <li>💡 Website: <a href="https://bluenight.net" target="_blank">Click here</a></li>
 </ul>
 
-Also you can find me on our [discord server](https://discord.com/invite/DwueqMQ)
+Also you can find me on our [discord server](https://discord.com/invite/P3gx28Q5Ta)
