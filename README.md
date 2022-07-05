@@ -5,7 +5,7 @@ Hi! I'm AdvancedAntiSkid and I'm currently working on [@Inventex Development](ht
 **Contact:**  
 
 <ul>
-  <li>💬 Discord: AdvancedAntiSkid#0001</li>
+  <li>💬 Discord: AdvancedAntiSkid#0166</li>
   <li>📪 Email: advancedantiskid@gmail.com</li>
   <li>🎥 Youtube: <a href="https://www.youtube.com/channel/UColYjkn_s5m0tMZtjT4jN5w?view_as=subscriber" target="_blank">Click here</a></li>
   <li>💡 Website: <a href="https://bluenight.net" target="_blank">Click here</a></li>
