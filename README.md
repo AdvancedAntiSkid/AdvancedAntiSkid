@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi! I'm AdvancedAntiSkid and I'm currently working on [@Fusion Anti-Cheat](https://github.com/FusionAC), [@BlueNight](https://bluenight.net) and [@LostIslands](https://github.com/AdvancedAntiSkid/LostIslands-Game-API)
+Hi! I'm AdvancedAntiSkid and I'm currently working on [@Inventex Develpment](https://inventex.dev), [@MagmanityNetwork](https://github.com/Magmanity) and [@Fusion Anti-Cheat(https://fusion.ac)
 
 **Contact:**  
 
