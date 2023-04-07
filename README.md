@@ -2,7 +2,7 @@
 
 ### Hi! I'm AdvancedAntiSkid
 
-I'm currently working on [@Inventex Development](https://inventex.dev), [@MagmanityNetwork](https://github.com/Magmanity) and [@Fusion Anti-Cheat](https://fusion.ac)
+I'm currently working on [@Inventex Development](https://inventex.dev), [@MagmanityNetwork](https://github.com/Magmanity), [@Fusion Anti-Cheat](https://fusion.ac) and [@VoidLang](https://github.com/voidlang/void)
 
 ### Languages and Tools
 
