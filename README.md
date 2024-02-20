@@ -23,6 +23,7 @@ I'm currently working on [@Inventex Development](https://inventex.dev), [@Magman
 <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1200px-Visual_Studio_2017_Logo.svg.png" alt="Visual Studio" width="40" height="40"/> </a>
 <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://www.svgrepo.com/show/331370/docker.svg" alt="Docker" width="40" height="40"/> </a>
+
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/> </a>
 <a href="https://www.atlassian.com/software/jira/" target="_blank"> <img src="https://wac-cdn.atlassian.com/dam/jcr:fa01756d-6dcc-45d1-83ab-696fbfeb074f/Jira-icon-blue.svg?cdnVersion=1450" alt="Jira" width="40" height="40"/> </a>
 <a href="https://www.notion.so/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/notion-2.svg" alt="Notion" width="40" height="40"/> </a>
