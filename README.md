@@ -2,7 +2,7 @@
 
 ### Hi, I'm AdvancedAntiSkid
 
-I'm currently working on [@VoidLang](https://voidland.org), [@MagmanityNetwork](https://magmanity.net),  [@Inventex Development](https://inventex.dev) and [@Fusion Anti-Cheat](https://fusion.ac).
+I'm currently working on [@VoidLang](https://voidlang.org), [@MagmanityNetwork](https://magmanity.net),  [@Inventex Development](https://inventex.dev) and [@Fusion Anti-Cheat](https://fusion.ac).
 
 - Developer at [FyreMC](https://fyremc.hu)
 - CTO at [YourSitee](https://yoursit.ee)
