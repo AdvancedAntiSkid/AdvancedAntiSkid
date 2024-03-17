@@ -2,10 +2,10 @@
 
 ### Hi, I'm AdvancedAntiSkid
 
-I'm currently working on [@VoidLang](https://voidlang.org), [@MagmanityNetwork](https://magmanity.net),  [@Inventex Development](https://inventex.dev) and [@Fusion Anti-Cheat](https://fusion.ac).
+I'm currently working on [@VoidLang](https://voidlang.org) and [@Fusion Anti-Cheat](https://fusion.ac).
 
-- Developer at [FyreMC](https://fyremc.hu)
-- CTO at [YourSitee](https://yoursit.ee)
+- Former developer at [FyreMC](https://fyremc.hu)
+- Backend developer at [YourSitee](https://yoursit.ee)
 
 I am passionate about learning new technologies and contributing to open-source projects.
 
@@ -46,8 +46,6 @@ I am passionate about learning new technologies and contributing to open-source 
 <a href="https://discord.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="advancedantiskid" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/AdvancedAntiSkid" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/AdvancedAntiSkid" height="30" width="40" /></a>
 <a href="mailto: advancedantiskid@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/AdvancedAntiSkid/AdvancedAntiSkid/main/gmail-solid.svg" alt="advancedantiskid@gmail.com" height="30" width="40" /></a>
-
-You can also find me on my [discord server](https://dc.inventex.dev)
 
 <p><img align="left" src="https://github-readme-stats-six-puce.vercel.app/api/top-langs?username=AdvancedAntiSkid&show_icons=true&theme=dark&locale=en&layout=compact&count_private=true&langs_count=11" alt="AdvancedAntiSkid's Languages"/></p>
 
