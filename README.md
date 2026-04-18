@@ -6,35 +6,39 @@ I am passionate about learning new technologies and contributing to open-source 
 
 ### Languages and Tools
 
-[![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://www.java.com/)
-[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://www.javascript.com/)
-[![TypeScript](https://cdn.worldvectorlogo.com/logos/typescript.svg)](https://www.typescriptlang.org/)
-[![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)](https://www.w3schools.com/cs/)
-[![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)](https://www.w3schools.com/cpp/)
-[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org/)
-[![Go](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg)](https://golang.org/)
-[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/)
-[![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/)
+<a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
+<a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="40"/></a>
+<a href="https://www.w3schools.com/cs/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/></a>
+<a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
+<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
+<a href="https://golang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/></a>
+<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
+<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
 
-[![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/)
-[![Docker](https://www.svgrepo.com/show/331370/docker.svg)](https://www.docker.com/)
-[![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg)](https://kubernetes.io/)
-[![DevOps](https://cdn.worldvectorlogo.com/logos/devops-2.svg)](https://en.wikipedia.org/wiki/DevOps)
-[![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)](https://www.mysql.com/)
-[![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)](https://www.mongodb.com/)
-[![Redis](https://www.svgrepo.com/show/303460/redis-logo.svg)](https://redis.io/)
-[![Spigot](https://static.spigotmc.org/img/spigot.png)](https://spigotmc.org/)
-[![Velocity](https://raw.githubusercontent.com/VelocityPowered/Branding/master/logo-without-wordmark/velocity-blue.svg)](https://papermc.io/software/velocity)
+<br>
 
-[![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.linux.org/)
-[![IntelliJ](https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png)](https://www.jetbrains.com/idea/)
-[![Visual Studio](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1200px-Visual_Studio_2017_Logo.svg.png)](https://visualstudio.microsoft.com/)
-[![VSCode](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg)](https://visualstudio.microsoft.com/)
-[![Express](https://upload.vectorlogo.zone/logos/expressjs/images/a1b5cb1f-dae7-4971-ab5b-68efce751b0f.svg)](https://expressjs.com/)
-[![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://react.dev/)
-[![Jira](https://wac-cdn.atlassian.com/dam/jcr:fa01756d-6dcc-45d1-83ab-696fbfeb074f/Jira-icon-blue.svg?cdnVersion=1450)](https://www.atlassian.com/software/jira/)
-[![Notion](https://cdn.worldvectorlogo.com/logos/notion-2.svg)](https://www.notion.so/)
-[![Linear](https://asset.brandfetch.io/iduDa181eM/id0tTqetsg.svg)](https://linear.app/)
+<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
+<a href="https://www.docker.com/"><img src="https://www.svgrepo.com/show/331370/docker.svg" width="40"/></a>
+<a href="https://kubernetes.io/"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/></a>
+<a href="https://en.wikipedia.org/wiki/DevOps"><img src="https://cdn.worldvectorlogo.com/logos/devops-2.svg" width="40"/></a>
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
+<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
+<a href="https://redis.io/"><img src="https://www.svgrepo.com/show/303460/redis-logo.svg" width="40"/></a>
+<a href="https://spigotmc.org/"><img src="https://static.spigotmc.org/img/spigot.png" width="40"/></a>
+<a href="https://papermc.io/software/velocity"><img src="https://raw.githubusercontent.com/VelocityPowered/Branding/master/logo-without-wordmark/velocity-blue.svg" width="40"/></a>
+
+<br>
+
+<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
+<a href="https://www.jetbrains.com/idea/"><img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" width="40"/></a>
+<a href="https://visualstudio.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1200px-Visual_Studio_2017_Logo.svg.png" width="40"/></a>
+<a href="https://visualstudio.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/></a>
+<a href="https://expressjs.com/"><img src="https://upload.vectorlogo.zone/logos/expressjs/images/a1b5cb1f-dae7-4971-ab5b-68efce751b0f.svg" width="40"/></a>
+<a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
+<a href="https://www.atlassian.com/software/jira/"><img src="https://wac-cdn.atlassian.com/dam/jcr:fa01756d-6dcc-45d1-83ab-696fbfeb074f/Jira-icon-blue.svg?cdnVersion=1450" width="40"/></a>
+<a href="https://www.notion.so/"><img src="https://cdn.worldvectorlogo.com/logos/notion-2.svg" width="40"/></a>
+<a href="https://linear.app/"><img src="https://asset.brandfetch.io/iduDa181eM/id0tTqetsg.svg" width="40"/></a>
 
 <p><img align="left" src="https://github-readme-stats-six-puce.vercel.app/api/top-langs?username=AdvancedAntiSkid&show_icons=true&theme=dark&locale=en&layout=compact&count_private=true&langs_count=11" alt="AdvancedAntiSkid's Languages"/></p>
 
