@@ -6,7 +6,7 @@ I am passionate about learning new technologies and contributing to open-source 
 
 ### Languages and Tools
 
-<p align="left">
+<p align="left" style="display: flex; gap: 5px;">
 <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" align="center"/> </a>
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" align="center"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="40" height="40" align="center"/> </a>
@@ -18,7 +18,7 @@ I am passionate about learning new technologies and contributing to open-source 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Css3" width="40" height="40" align="center"/> </a>
 </p>
 
-<p align="left">
+<p align="left" style="display: flex; gap: 5px;">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://www.svgrepo.com/show/331370/docker.svg" alt="Docker" width="40" height="40"/> </a>
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/> </a>
@@ -30,7 +30,7 @@ I am passionate about learning new technologies and contributing to open-source 
 <a href="https://papermc.io/software/velocity" target="_blank"> <img src="https://raw.githubusercontent.com/VelocityPowered/Branding/master/logo-without-wordmark/velocity-blue.svg" alt="Velocity" width="40" height="40"/> </a>
 </p>
 
-<p align="left">
+<p align="left" style="display: flex; gap: 5px;">
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA" width="40" height="40"/> </a>
 <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1200px-Visual_Studio_2017_Logo.svg.png" alt="Visual Studio" width="40" height="40"/> </a>
