@@ -16,8 +16,6 @@ I am passionate about learning new technologies and contributing to open-source 
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
 
-<br>
-
 <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
 <a href="https://www.docker.com/"><img src="https://www.svgrepo.com/show/331370/docker.svg" width="40"/></a>
 <a href="https://kubernetes.io/"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/></a>
@@ -27,8 +25,6 @@ I am passionate about learning new technologies and contributing to open-source 
 <a href="https://redis.io/"><img src="https://www.svgrepo.com/show/303460/redis-logo.svg" width="40"/></a>
 <a href="https://spigotmc.org/"><img src="https://static.spigotmc.org/img/spigot.png" width="40"/></a>
 <a href="https://papermc.io/software/velocity"><img src="https://raw.githubusercontent.com/VelocityPowered/Branding/master/logo-without-wordmark/velocity-blue.svg" width="40"/></a>
-
-<br>
 
 <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
 <a href="https://www.jetbrains.com/idea/"><img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" width="40"/></a>
